@@ -1,0 +1,6 @@
+# OS/IDE
+.DS_STORE
+.DS_Store
+
+# Sublime Text 2
+*.cache
