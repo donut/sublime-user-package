@@ -1,0 +1,11 @@
+{
+   // affects blame command when no selection is made
+   // true: blame whole file
+   // false: blame only current line
+   "blame_whole_file": false
+
+   // statusbar
+   ,"statusbar_branch": false
+   // Symbols for quick git status in status bar
+   ,"statusbar_status": false
+}
