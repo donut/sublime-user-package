@@ -1,10 +1,15 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/Twilight Bright.tmTheme",
+	"color_scheme": "User/Twilight Bright.tmTheme",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Source Code Pro",
 	"font_size": 12,
+   // Additional spacing at the top of each line, in pixels
+   "line_padding_top": 0,
+
+   // Additional spacing at the bottom of each line, in pixels
+   "line_padding_bottom": 0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -13,7 +18,7 @@
 	],
 	"indent_guide_options":
 	[
-		"draw_active"
+		"draw_normal"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
@@ -21,10 +26,11 @@
 	[
 		80
 	],
+	"detect_indentation": false,
 	"tab_size": 3,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Refined-Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": false,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true,
 	"wrap_width": 0
 }
