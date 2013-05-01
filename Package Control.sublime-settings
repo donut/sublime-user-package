@@ -3,6 +3,7 @@
 	[
 		"ApacheConf.tmLanguage",
 		"BracketHighlighter",
+		"CoffeeScript",
 		"Emmet",
 		"Git",
 		"GitGutter",
@@ -18,6 +19,7 @@
 		"Theme - Nil",
 		"Theme - Refined",
 		"Theme - Soda",
+		"TrailingSpaces",
 		"VAlign"
 	]
 }

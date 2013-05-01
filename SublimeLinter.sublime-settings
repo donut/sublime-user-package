@@ -8,5 +8,21 @@
     "csslint_options":
     {
         "ids": false
+    },
+
+    // jshint: options for linting JavaScript. See http://www.jshint.com/options/ for more info.
+    // By deault, eval is allowed.
+    "jshint_options":
+    {
+        "evil":      true,
+        "regexdash": true,
+        "browser":   true,
+        "wsh":       true,
+        "trailing":  true,
+        "sub":       true,
+        "laxcomma":  true,
+        "asi":       true,
+        "laxbreak":  true,
+        "eqeqeq":    false
     }
 }
