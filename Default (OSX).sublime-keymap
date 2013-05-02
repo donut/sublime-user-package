@@ -1,6 +1,6 @@
 [
     { "keys": ["super+j"], "command": "join_lines" }
-    
+
     // Convert single quote string to double quoted string and vice versa
     // Will handle escaping or unescaping quotes within the string
     ,{
@@ -25,6 +25,20 @@
             "plugin": {
                 "type": ["__all__"],
                 "command" : "bh_modules.foldbracket"
+            }
+        }
+    },
+    // Select text between brackets
+    {
+        "keys": ["super+b"],
+        "command": "bh_key",
+        "args":
+        {
+            "lines" : true,
+            "plugin":
+            {
+                "type": ["__all__"],
+                "command": "bh_modules.bracketselect"
             }
         }
     },
