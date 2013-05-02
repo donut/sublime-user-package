@@ -1,6 +1,6 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "User/Twilight Bright.tmTheme",
+	"color_scheme": "Packages/User/Twilight Bright.tmTheme",
 	"detect_indentation": false,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
