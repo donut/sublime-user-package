@@ -1,7 +1,9 @@
 {
 	"installed_packages":
 	[
+		"Alignment",
 		"ApacheConf.tmLanguage",
+		"Boo",
 		"BracketHighlighter",
 		"CoffeeScript",
 		"Dayle Rees Color Schemes",
@@ -12,10 +14,16 @@
 		"Goto Documentation",
 		"InactivePanes",
 		"INI",
+		"GotoLastEdit",
+		"INI",
+		"MacTerminal",
+		"InactivePanes",
+		"INI",
 		"Live CSS",
 		"Markdown Preview",
 		"Origami",
 		"Package Control",
+		"Solarized Light-Dark Toggle",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Aqua",
