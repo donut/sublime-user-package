@@ -4,6 +4,7 @@
 	"detect_indentation": false,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
+	"fade_inactive_panes_gray_scale": 0.2,
 	"font_face": "Source Code Pro",
 	"font_size": 12.0,
 	"highlight_line": true,
