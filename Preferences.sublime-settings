@@ -1,7 +1,7 @@
 {
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
-	"detect_indentation": false,
+	"color_scheme": "Packages/User/Poyeyo.tmTheme",
+	"detect_indentation": true,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_inactive_panes_gray_scale": 0.2,
@@ -14,6 +14,7 @@
 		"Github Tools",
 		"Vintage",
 		"Git",
+		"Solarized Light-Dark Toggle",
 		"TrailingSpaces"
 	],
 	"indent_guide_options":
@@ -28,10 +29,11 @@
 	[
 		80
 	],
-	"tab_size": 3,
+	"tab_size": 2,
 	"theme": "Refined-Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
+	"wide_caret": true,
 	"word_wrap": true,
 	"wrap_width": 0
 }
